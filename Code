@@ -1,0 +1,29 @@
+Experience or Lessons Learned: Share any insights or lessons you gained from the camp.
+
+I learned many different things during the week at the SJSU WITH Cyber Camp! 
+Some of these things included the different jobs, fields, and careers that cybersecurity offers.
+These included Cyber Defense Analysts, Forensics, etc...
+Additionally, I was told of the programs that colleges, universities, and SJSU have towards cybersecurity.
+As a result, I could actually narrow down what I want to major in at college after high school, and that being computer engineering or electrical engineering computer science (EECS).
+I thoroughly enjoyed all the activities the camp provided, as well as the support from all the professors and staff members. 
+Thank you so much for making my week at camp a memorable one!
+
+
+Sample Code: Provide any sample code you wrote, and consider enhancing it.
+
+Some code I wrote include deleting hacker files as shown below from the Terminal:
+withcyber@withcyber:~ $ rmdir /home/withcyber/Desktop/GOTFILE?GOTFILE?1.1
+This command line deletes the file from its directory in the file folder.
+I had to manually code for each file because I did not have the permission to delete all files at once, and it got super annoying!
+
+
+Further Exercises: Share any additional exercises, code, or experiments you conducted.
+
+As stated above, I experimented with the code in order to figure out a way to get rid of all the annoying file folders on my desktop, and succeeded.
+I was able to trash the GOTFILE? files and the NEEDAFILE? files.
+
+
+Projects: Propose or develop any projects based on what you have learned.
+
+I think I may start working on a new project on my RaspberryPi for CyberPatriot, a cybersecurity club at my school that I am a part of.
+I want to use my Pi to start scripting to make it easier for me to get through cybersecurity tasks faster.
